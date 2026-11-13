@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/__pycache__/
+*.py[cod]
+TestResults/
+.vs/
+.idea/
+Local.props
+*.user
+*.suo
+*.binlog
